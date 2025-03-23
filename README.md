@@ -1,4 +1,6 @@
-# The “*obligation*” to self-design
+# GO KABK Y2, PPS, web portfolio workshop
+
+## The “*obligation*” to self-design
 
 Thinking about one's self-representation online.
 
