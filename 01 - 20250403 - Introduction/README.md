@@ -6,7 +6,7 @@ Thinking about one's self-representation online.
 
 1) **What do I want to achieve** or want out of this? Exposure? Reputation? Work? Income? Legitimacy? Collaboration?
 2) **Who and where is my audience**, and how can I 'reach out' to them (in terms of location, social skills, tone).
-3) How shall I 'present my self', **language-wise**, narrative-wise (the '[obligation to self-design](https://www.e-flux.com/journal/00/68457/the-obligation-to-self-design/)')?
+3) How shall I 'present my self', **language-wise**, narrative-wise (the *[obligation to self-design](https://www.e-flux.com/journal/00/68457/the-obligation-to-self-design/)*)?
 4) **What formats** can be used to present my self and practice, on which mediums, and on which platforms? (See 1 for hints).
 
 ### Representational possibilities
