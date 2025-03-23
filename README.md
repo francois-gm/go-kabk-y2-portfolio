@@ -36,9 +36,9 @@ Thinking about one's self-representation online.
  
 ## Online, a portfolio website
 
-For this workshop, we will think about your online presence in the form of a (traditional) hand-coded website.
+For this workshop, we will think about your online presence in the form of a (traditional) hand-coded (portfolio) website.
 
-We will work from a simple HTML template that covers the essentials. This lightweight, pure HTML & CSS portfolio template is free to be used and adopted, modified, and expanded by anyone. The original template has been graciously thanks to Martijn de Heer (see [original template here](https://github.com/aptoptout/aptoptout.github.io)).
+We will write a simple HTML template structure that covers the essentials.
 
 > Small note: A `script.js` has been addded at the end of the HTML document to illustrate how to potentially add JavaScript, if you have no need for JavaScript, you can remove the `script.js` as well as remove the `<script>` tags in the HTML documents.
 
@@ -46,7 +46,7 @@ We will work from a simple HTML template that covers the essentials. This lightw
 
 - **Semantic markup** (`nav`, `section`, `figure`, etc.), improving structural readability
 - **CSS variables**, making it easy to configure things once and reuse across stylesheet
-- **CSS Grid**, flexible multi-column layouts
+- **CSS flexbox**, flexible ordering and layouting
 - **Media queries**, responsive design for any device
 
 ### Table of contents
