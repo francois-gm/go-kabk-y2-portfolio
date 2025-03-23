@@ -92,19 +92,26 @@ Think about the questions earlier. Try to answer the following:
 
 **Video**
 
-You can add video files. These need to be `.mp4` files. Compress them below **8mb / minute** (@H.264). You can compress them using [Cloud convert](https://cloudconvert.com/mp4-converter).
+- These need to be `.mp4` files.
+- Compress them below **8mb / minute** (@H.264).
+- You can compress them using [Cloud convert](https://cloudconvert.com/mp4-converter).
 
 **Audio** 
 
-You can add audio files. These need to be `.mp3` files. Compress them below **1mb / minute**. You can compress them using [Online audio converter](https://online-audio-converter.com).
+- These need to be `.mp3` files.
+- Compress them below **1mb / minute**.
+- You can compress them using [Online audio converter](https://online-audio-converter.com).
 
 **Embedded content**
 
-You can add videos you've hosted on **YouTube**, **Vimeo**, or audio files from **SoundCloud**. You can find a `Share` option on each of these websites to generate an embed code that can be then used on your own website.
+- You can add videos you've hosted on **YouTube**, **Vimeo**, or audio files from **SoundCloud**. 
+- You can find a `Share` option on each of these websites to generate an embed code that can be then used on your own website.
 
 **Documents**
 
-Your resume / cv as an example, these can be links to Google Docs or `.pdf` files (exported as *interactive* pdfs and with appropriate compression).
+- Your resume / cv as an example.
+- These can be links to Google Docs
+- .. or `.pdf` files (exported as *interactive* pdfs and with appropriate compression).
 
 ### Web font resources
 
