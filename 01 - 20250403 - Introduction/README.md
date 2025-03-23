@@ -20,8 +20,7 @@ Thinking about one's self-representation online.
 - - ... in the form of an ebook with interactions and hyperlinks.
   - ... or a conventionally (but timelessly) designed .pdf
   - ... hosted online via Dropbox, Google Docs, WeTransfer, etc.
-  - ... or a Google Spreadsheet ([like here](https://nickytes.la)).
-  - ... or a Github repository ([like here](https://github.com/quentin-f451/quentincreuzet.fr)).
+  - ... or a Google Docs / spreadsheet / Github repository?
   - to be sent online by email, to be self-hsoted, to be shared on social medias?
  
 - An *online platform presence*
@@ -45,7 +44,7 @@ For this workshop, we will think about your online presence in the form of a (tr
 - (V)
 - (V)
 - (V)
-- (F)
+- (F) [Nicky Tesla](https://nickytes.la)
 - (F)
 - (F)
 
