@@ -56,21 +56,21 @@ For this workshop, we will think about your online presence in the form of a (tr
 
 Think about the questions earlier. Try to answer the following:
 
-1) What they want to achieve?
-2) Who is their audience?
-3) How they reach out to their audience (which type of language they use, playful, minimal, serious, academic, etc)
-4) What do you like about it, and why?
-5) What do you don't like about it, and why?
-6) Does it work, can you do/find what you were looking for (if the case)?
+1) What they want to **achieve**?
+2) Who is their **audience**?
+3) **How they reach** out to their audience (which type of language they use, playful, minimal, serious, academic, etc)
+4) What do **you like** about it, and why?
+5) What do **you don't like** about it, and why?
+6) **Does it work**, can you do/find what you were looking for (if the case)?
 
 ## Preparing your content (30min)
 
 **Organizing**
 
-1) Create a folder for your (web) project's content.
-2) Inside that folder, you can create a folder for each project and name them by their project name.
-3) Inside each project folder, you can create a sub-folder named `files`, in this folder you add your images, downloadable documents (like pdfs), videos, etc.
-4) Within that project folder, create a `content.txt` (text) file. Inside that text file, add a title and a project description. You can also add additional (textual) information.
+1) **Create a folder** for your (web) project's content.
+2) Inside that folder, you can create a folder for **each project** and name them by their **project name**.
+3) Inside each project folder, you can create a **sub-folder** named `files`, in this folder you **add your images, downloadable documents (like pdfs), videos, etc**.
+4) Within that project folder, create a `content.txt` (text) file. Inside that text file, add a **title** and a **project description**. You can also add additional (textual) information.
 
 **Naming convention**
 
