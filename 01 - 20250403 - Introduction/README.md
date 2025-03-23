@@ -12,11 +12,13 @@ Thinking about one's self-representation online.
 ### Options:
 
 - A *website*
+  
   - ... made with a website builder ([webflow](https://webflow.com), [cargo](https://cargo.site), [hotglue](https://hotglue.me), etc) (€–€€).
   - ... made *by hand* using HTML, CSS, and (a bit) of Javascript (?) (€).
   - ... made by someone you commissionned (€€€).
 
 - A *document*
+  
   - ... in the form of an ebook with interactions and hyperlinks.
   - ... or a conventionally (but timelessly) designed .pdf
   - ... hosted online via Dropbox, Google Docs, WeTransfer, etc.
@@ -24,10 +26,12 @@ Thinking about one's self-representation online.
   - ... to be sent online by email, to be self-hsoted, to be shared on social medias?
  
 - An *online platform presence*
+  
   - ... a social media account (instagram, or what's the flavour of the day?)
   - ... a newsletter (don't forget about user's consent to subscribe to your newsletter)
     
 - Being *physical*
+  
   - ... attending cultural events where *peers* are present (be mindful of others – and put your ego aside)
   - ... attending fairs?
   - ... *organizing* events?
@@ -45,7 +49,7 @@ For this workshop, we will think about your online presence in the form of a (tr
 - (V)
 - (V)
 - (F) [Nicky Tesla](https://nickytes.la)
-- (F)
+- (F) [Jules Janssen](https://julesjanssen.biz)
 - (F)
 
 ### Looking at portfolio websites, your examples (1h, 3min x 20 students)
@@ -144,6 +148,8 @@ You can use custom fonts in your website.
 - [Elina Birkehag](https://elinabirkehag.com)
 - [Rietlanden Women's Office](https://rietlanden.womensoffice.nl/works.html)
 - [Studio Darius Ou](https://dariusou.work)
+- [Studio Joost Grootens](https://www.joostgrootens.nl)
+- [Irma Boom](https://irmaboom.nl)
 - [Zeno Beikircher](https://zenobei.com)
 - [Büro Vivien Hoffmann](http://www.vivienhoffmann.com)
 - [Medusa](https://medusaoffspace.com)
