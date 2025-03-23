@@ -48,9 +48,9 @@ For this workshop, we will think about your online presence in the form of a (tr
 - (V)
 - (V)
 - (V)
-- (F) [Nicky Tesla](https://nickytes.la)
-- (F) [Jules Janssen](https://julesjanssen.biz)
-- (F) [Joe Coleman](https://getcoleman.com)
+- [Nicky Tesla](https://nickytes.la) (F)
+- [Jules Janssen](https://julesjanssen.biz) (F)
+- [Joe Coleman](https://getcoleman.com) (F)
 
 ### Looking at portfolio websites, your examples (1h, 3min x 20 students)
 
