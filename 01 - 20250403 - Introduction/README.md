@@ -9,7 +9,7 @@ Thinking about one's self-representation online.
 3) How shall I 'present my self', language-wise, working out the narrative (the '[obligation to self-design](https://www.e-flux.com/journal/00/68457/the-obligation-to-self-design/)')?
 4) What formats can be used to present my self and practice, on which mediums, and on which platforms? (See 1 for hints).
 
-### Options:
+### Representational possibilities
 
 - A *website*
   
