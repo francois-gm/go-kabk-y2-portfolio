@@ -128,11 +128,27 @@ You can use custom fonts in your website.
 
 ### Meta data, favicon
 
-(add content there)
+On your webpage, you will have the possibility to add "meta" information in the html's `<head>` section. Think about a title (visible in the browser's window), information about the author, and keywords.
+
+Also, you will be able to add a **favicon**. What is a favicon? The favicon is the small image that is on the browser's tab. This image also gets used on your mobile device, or when you bookmark a webpage.
+
+Your favicon shoud be:
+- `512px by 512px` (square ratio)
+- `.png` format
+- visible at very small scales (better to test directly on your website and make edits based on that)
 
 ### Debug tool refresher
 
-(add content there)
+Possible issues:
+
+1) Typos (a dot missing somewhere, a letter is another letter).
+2) HTML Tags not properly opened/closed, CSS declaration not properly opened/closed.
+3) You are targetting the wrong selector/class (CSS).
+4) You are not on the right file!
+
+How to use your browser's *Developer tools*:
+
+On Google Chrome -> [Shift]+[Cmd]+[C], or `View -> Developer Tools` | Firefox -> [Alt]+[Cmd]+[I], or `Tools -> Browser tools -> Web development tools`.
 
 ## Further portfolio inspiration
 
