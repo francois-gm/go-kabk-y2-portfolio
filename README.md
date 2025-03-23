@@ -6,9 +6,9 @@ We will think about different strategies for presenting yourself (as a graphic d
 
 ## Schedule
 
-- April 3rd: Introduction class, fundamental questions, and looking at how to gather and prepare content for online needs.
-- April 10th: Building an online template project that can contain and display your content based on your needs and aims.
-- April 17th: Fine-tuning your project, options for online deployment, + in-class presentations
+- **April 3rd**: Introduction class, fundamental questions, and looking at how to gather and prepare content for online needs.
+- **April 10th**: Building an online template project that can contain and display your content based on your needs and aims.
+- **April 17th**: Fine-tuning your project, options for online deployment, + in-class presentations
 
 ## The “*obligation*” to self-design
 
