@@ -74,25 +74,25 @@ Think about the questions earlier. Try to answer the following:
 - **Avoid** the use of capitalized charaters, as well as spaces. Separate words in your file name by either using a underscore (`my_file.jpg`) or dash (`my-file.jpg`).
 - Try to be **descritive** but **concise** in the naming of your files. As an example name your image files by their project names, and what makes them specific (close-up, background view, etc). You can include the date the images were taken as well in the file names. Or the photo credit (who took the picture) in the file name.
 
-**File types**
+### Preparing media for online use
 
 **Image**
 
   - **Use `.jpg` for images**, avoid .png (only if transparency) and .gif (only if animated).
-  - Try to target **250kb** per image.
+  - Try to target **200kb** per image.
   - Consider using `.svg` files (yes!) instead of .png files.
   - **Compress your .jpg with Photoshop** using the **'Save for Web (Legacy)'** option (under File->Export), `[Shift]+[Alt]+[Cmd]+[S]`. Choose **`50`–`60`** for quality.
   - If 'Save for Web (Legacy)' is not available, use **'Export As'** (under File->Export).
   - Or **compress your images online using Squoosh**, https://squoosh.app.
-  - An image width of 2400px is reasonable for various screen sizes while keeping quality.
+  - An image width of about 2000px is reasonable for various screen sizes while keeping quality.
 
 **Video**
 
-You can add video files. These need to be `.mp4` files. Compress them below **8mb / minute** You can compress them using [Cloud convert](https://cloudconvert.com/mp4-converter).
+You can add video files. These need to be `.mp4` files. Compress them below **8mb / minute** (@H.264). You can compress them using [Cloud convert](https://cloudconvert.com/mp4-converter).
 
 **Audio** 
 
-You can add audio files. These need to be `.mp3` files. Compress them below **1mb / minute** You can compress them using [Online audio converter](https://online-audio-converter.com).
+You can add audio files. These need to be `.mp3` files. Compress them below **1mb / minute**. You can compress them using [Online audio converter](https://online-audio-converter.com).
 
 **Embedded content**
 
@@ -102,7 +102,7 @@ You can add videos you've hosted on **YouTube**, **Vimeo**, or audio files from 
 
 Your resume / cv as an example, these can be links to Google Docs or `.pdf` files (exported as *interactive* pdfs and with appropriate compression).
 
-**Web font resources**
+### Web font resources
 
 You can use custom fonts in your website.
 
@@ -115,76 +115,15 @@ You can use custom fonts in your website.
 - Google Fonts **→** [fonts.google.com](https://fonts.google.com/)
 - Font Squirrel **→** [fontsquirrel.com](https://www.fontsquirrel.com/)
 
-## Preparing media for online use
+### Meta data, favicon
 
-You will be using lots of media and files on your website from images to videos and fonts. It's important to be **optimal** in terms of **sizes** and **resolutions** to get your website to respond **quickly** and work **properly**.
+(add content there)
 
-As a rule of thumbs your website should load under 3000ms (3 seconds).
+### Debug tool refresher
 
-> "Statistics indicate that **40% of visitors will leave a website** if it takes longer than **three seconds** to load." – [[Source, browserstack](https://www.browserstack.com/guide/how-fast-should-a-website-load)]
+(add content there)
 
-Below are some general rules and best practices regarding using media.
-
-### Images
-
-Keep them light, fast and proper.
-
-1. Size: keep your image sizes below **200 kb** (yes that is kilo bytes!)
-2. Resolution: don't use images that exceed **1920px width or height**
-3. Format: for photos use JPG but for vector images with transparency use either SVG or PNG.
-4. GIF: don't use GIF files (use videos on loop instead, .mp4 format).
-5. Use browser lazy loading for images: [read more here](https://web.dev/articles/browser-level-image-lazy-loading).* 
-
-\* ... but the **first** visible image on your page should **not** be lazy loaded.
-
-#### How to?
-
-**Compress your .jpg with Photoshop** using the **'Save for Web (Legacy)'** option (under `File->Export`), `[Shift]+[Alt]+[Cmd]+[S]`, with the appropriate image width resizing and the quality setting between **50** and **60** (target under 200kb, the less the better).
-
-If 'Save for Web (Legacy)' is not available, use **'Export As'** (under `File->Export`).
-
-Or, optionally, you can use this mac software called [ImageOptim](https://imageoptim.com/).
-
-### Videos
-
-It's highly recommended to upload your videos to a service such as YouTube or Vimeo because their servers are much faster and they provide good embedding options.
-
-1. Codec: use **H.264** this will reduce file size and keep quality.
-2. File format: use **.mp4**
-3. Limit the bitrate to preferably **2mb/minute**, but you could go to max 8mb/min if the video is really short.
-4. MOV: don't use MOV files.
-
-Tools to convert your video here: [cloudconvert.com/mp4-converter](https://cloudconvert.com/mp4-converter)
-
-**YouTube embedding**
-
-To embed a YouTube video take these steps:
-
-1. Upload video on YouTube
-2. Go to video page when it's uploaded
-3. Click on the **share** button below video
-4. Click on the **embed** button in popup window
-5. Copy code
-6. Paste in your html document where you want the embedded video (you can change the `width` and `height` parameters to `width="100%"` and `height="auto"`.)
-
-**Vimeo embedding**
-
-To embed a Vimeo video take these steps:
-
-1. Upload video on Vimeo
-2. Go to video settings page when it's uploaded
-3. Click on **embed** tab on the left navigation panel
-4. Click on dark blue **embed code** button (this copies code for you to clipboard)
-5. Paste in your html document where you want the embedded video
-6. Paste in your html document where you want the embedded video (you can change the `width` and `height` parameters to `width="100%"` and `height="auto"`.)
-
-**How much space do you need?**
-
-**5** **gigabytes** is more than enough. As explained in the using media section below you need to really take care of file size and this will reduce the costs needed for hosting.
-
-
-
-## Portfolio inspiration
+## Further portfolio inspiration
 
 - [Conversation Taking Place](https://conversation-taking-place.com)
 - [Jordy van den Nieuwendijk](https://jordy.studio)
