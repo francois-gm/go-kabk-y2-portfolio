@@ -12,19 +12,19 @@ Thinking about one's self-representation online.
 ### Options:
 
 - A *website*
-- - ... made with a website builder ([webflow](https://webflow.com), [cargo](https://cargo.site), [hotglue](https://hotglue.me), etc) (€–€€).
+  - ... made with a website builder ([webflow](https://webflow.com), [cargo](https://cargo.site), [hotglue](https://hotglue.me), etc) (€–€€).
   - ... made *by hand* using HTML, CSS, and (a bit) of Javascript (?) (€).
   - ... made by someone you commissionned (€€€).
 
 - A *document*
-- - ... in the form of an ebook with interactions and hyperlinks.
+  - ... in the form of an ebook with interactions and hyperlinks.
   - ... or a conventionally (but timelessly) designed .pdf
   - ... hosted online via Dropbox, Google Docs, WeTransfer, etc.
   - ... or a Google Docs / spreadsheet / Github repository?
-  - to be sent online by email, to be self-hsoted, to be shared on social medias?
+  - ... to be sent online by email, to be self-hsoted, to be shared on social medias?
  
 - An *online platform presence*
-- - ... a social media account (instagram, or what's the flavour of the day?)
+  - ... a social media account (instagram, or what's the flavour of the day?)
   - ... a newsletter (don't forget about user's consent to subscribe to your newsletter)
     
 - Being *physical*
