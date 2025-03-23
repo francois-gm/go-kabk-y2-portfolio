@@ -1,5 +1,15 @@
 # GO KABK Y2, PPS, web portfolio workshop
 
+## Presentation
+
+We will think about different strategies for presenting yourself (as a graphic designer, and/or more). These can be in person, in various contexts, or online. We will focus on the latter.
+
+## Schedule
+
+- April 3rd: Introduction class, fundamental questions, and looking at how to gather and prepare content for online needs.
+- April 10th: Building an online template project that can contain and display your content based on your needs and aims.
+- April 17th: Fine-tuning your project, options for online deployment, + in-class presentations
+
 ## The “*obligation*” to self-design
 
 Thinking about one's self-representation online.
