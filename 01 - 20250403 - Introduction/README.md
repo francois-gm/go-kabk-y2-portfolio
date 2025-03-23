@@ -76,11 +76,31 @@ Think about the questions earlier. Try to answer the following:
 
 **File types**
 
-- Image:
-- Video: you can add video files. These need to be .mp4 files. You can compress for web using ().
-- Audio: you can add audio files. These need to be .mp3 files. You can compress for web using ().
-- Embedded content: you can add videos you've hosted on YouTube, Vimeo, or audio files from SoundCloud.
-- Documents: your resume / cv as an example, these can be links to Google Docs or `.pdf` files (exported as *interactive* pdfs and with proper compression).
+**Image**
+
+  - **Use `.jpg` for images**, avoid .png (only if transparency) and .gif (only if animated).
+  - Try to target **250kb** per image.
+  - Consider using `.svg` files (yes!) instead of .png files.
+  - **Compress your .jpg with Photoshop** using the **'Save for Web (Legacy)'** option (under File->Export), `[Shift]+[Alt]+[Cmd]+[S]`. Choose **`50`–`60`** for quality.
+  - If 'Save for Web (Legacy)' is not available, use **'Export As'** (under File->Export).
+  - Or **compress your images online using Squoosh**, https://squoosh.app.
+  - An image width of 2400px is reasonable for various screen sizes while keeping quality.
+
+**Video**
+
+You can add video files. These need to be `.mp4` files. Compress them below **8mb / minute** You can compress them using [Cloud convert](https://cloudconvert.com/mp4-converter).
+
+**Audio** 
+
+You can add audio files. These need to be `.mp3` files. Compress them below **1mb / minute** You can compress them using [Online audio converter](https://online-audio-converter.com).
+
+**Embedded content**
+
+You can add videos you've hosted on **YouTube**, **Vimeo**, or audio files from **SoundCloud**. You can find a `Share` option on each of these websites to generate an embed code that can be then used on your own website.
+
+**Documents**
+
+Your resume / cv as an example, these can be links to Google Docs or `.pdf` files (exported as *interactive* pdfs and with appropriate compression).
 
 **Web font resources**
 
