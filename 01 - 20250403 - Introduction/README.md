@@ -154,6 +154,7 @@ You can use custom fonts in your website.
 - [Büro Vivien Hoffmann](http://www.vivienhoffmann.com)
 - [Medusa](https://medusaoffspace.com)
 - [Sara Kaaman](https://www.sarakaaman.com)
+- [Clara Pasteau](https://www.clarapasteau.com)
 - [Julijonas Urbonas](https://julijonasurbonas.lt)
 - [Studio Remco van Bladel](https://remcovanbladel.nl)
 - [Lynne Carty](http://lynnecarty.info)
