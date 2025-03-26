@@ -67,7 +67,7 @@ For this workshop, we will think about your online presence in the form of a (tr
 
 - [Margi Pippi](https://margipippi.com/)
 - [Vivien Hoffman](http://www.vivienhoffmann.com)
-- Corporate studio?
+- [GLGTH](https://glgth.com), [Blommers & Schumm](https://www.blommers-schumm.com)
 - [Mindy Seu](https://mindyseu.com), [Nicky Tesla](https://nickytes.la)
 - [Jules Janssen](https://julesjanssen.biz)
 - [Joe Coleman](https://getcoleman.com)
