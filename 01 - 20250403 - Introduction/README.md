@@ -65,12 +65,12 @@ For this workshop, we will think about your online presence in the form of a (tr
 
 ### Looking at portfolio websites, some examples (15min)
 
-- (V)
-- (V)
-- (V)
-- [Nicky Tesla](https://nickytes.la) (F)
-- [Jules Janssen](https://julesjanssen.biz) (F)
-- [Joe Coleman](https://getcoleman.com) (F)
+- [Margi Pippi](https://margipippi.com/)
+- [Vivien Hoffman](http://www.vivienhoffmann.com)
+- Corporate studio?
+- [Mindy Seu](https://mindyseu.com), [Nicky Tesla](https://nickytes.la)
+- [Jules Janssen](https://julesjanssen.biz)
+- [Joe Coleman](https://getcoleman.com)
 
 ### Looking at portfolio websites, your examples (1h, 3min x 20 students)
 
