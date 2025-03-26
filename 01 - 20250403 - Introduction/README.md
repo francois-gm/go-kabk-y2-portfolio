@@ -38,7 +38,27 @@ Thinking about one's self-representation online.
   - ... distributing promotional prints (business cards, etc)?
 
 - Or a bit of all that...
- 
+
+## Typologies of (online) portfolio
+
+- Display
+- Showroom
+- Archive
+- Repository 
+- Journal
+- Diary
+- Report
+- Blog / Vlog 
+- […]
+
+Types of Spaces:
+
+- Playground
+- Laboratory
+- Stage
+- One own’s room
+- […]
+
 ## Online, a portfolio website
 
 For this workshop, we will think about your online presence in the form of a (traditional) hand-coded website.
