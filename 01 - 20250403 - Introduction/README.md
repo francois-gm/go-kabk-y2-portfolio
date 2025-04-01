@@ -142,6 +142,7 @@ You can use custom fonts in your website.
 - Bye Bye Binary typotheque **→** [typotheque.genderfluid.space](https://typotheque.genderfluid.space)
 - Use & Modify **→** [usemodify.com](https://usemodify.com)
 - Velvetyne type **→** [velvetyne.fr](https://velvetyne.fr)
+- Velvetyne libre friends  **→** [https://velvetyne.fr/velvetyne-libre-friends/](https://velvetyne.fr/velvetyne-libre-friends/)
 - Adobe Typekit **→** [fonts.adobe.com](https://fonts.adobe.com/)
 - Google Fonts **→** [fonts.google.com](https://fonts.google.com/)
 - Font Squirrel **→** [fontsquirrel.com](https://www.fontsquirrel.com/)
