@@ -145,8 +145,8 @@ You can use custom fonts in your website.
 - Velvetyne libre friends  **→** [https://velvetyne.fr/velvetyne-libre-friends/](https://velvetyne.fr/velvetyne-libre-friends/)
 - Adobe Typekit **→** [fonts.adobe.com](https://fonts.adobe.com/)
 - Google Fonts **→** [fonts.google.com](https://fonts.google.com/)
-- Font Squirrel (for converting fonts to woff files) **→** [fontsquirrel.com](https://www.fontsquirrel.com/)
-- Transfonter (for converting fonts to woff files) **→** [https://transfonter.org](https://transfonter.org)
+- Font Squirrel (for converting fonts to `woff2` files to use on your website) **→** [fontsquirrel.com](https://www.fontsquirrel.com/)
+- Transfonter (for converting fonts to `woff2` files to use on your website) **→** [https://transfonter.org](https://transfonter.org)
 
 
 
