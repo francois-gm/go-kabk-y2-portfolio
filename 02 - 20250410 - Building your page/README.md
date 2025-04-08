@@ -12,13 +12,6 @@ We will work from a simple HTML template that covers the essentials.
 - [How to take it further](#how-to-take-it-further)
 - [Website tutorials](#website-tutorials)
 
-### Core focus
-
-- **Semantic markup** (`nav`, `section`, `figure`, etc.), improving structural readability
-- **CSS variables**, making it easy to configure things once and reuse across stylesheet
-- **CSS flexbox**, for layouting
-- **Media queries**, responsive design for any device
-
 ### Map structure
 
 ```
