@@ -8,7 +8,7 @@ We will work from a simple HTML template that covers the essentials.
 
 - **Semantic markup** (`nav`, `section`, `figure`, etc.), improving structural readability
 - **CSS variables**, making it easy to configure things once and reuse across stylesheet
-- **CSS Grid**, flexible multi-column layouts
+- **CSS flexbox**, for layouting
 - **Media queries**, responsive design for any device
 
 ### Table of contents
