@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+
+
+/* GENERAL */
+
+
+/* @font face (enable the use of 'custom fonts' inside your document) */
+
+/* 
+  You can use 'fontsquirrel' (https://www.fontsquirrel.com) 
+  or 'transfonter' (https://transfonter.org)
+  to generate your own font for the web from .ttf or .oft files 
+*/
+
+@font-face {
+    font-family: 'Authentic Sans';
+    src: url('../fonts/authentic-sans/authentic-sans-90.woff2') format('woff2'),
+         url('../fonts/authentic-sans/authentic-sans-90.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+:root {
+	/* text size variables */
+	--size-text: 18px;
+	--size-title: calc(var(--size-text) * 1.375);
+	--size-caption: calc(var(--size-text) * 0.825);
+	/* margin size variables */
+	--size-margin-s: calc(var(--size-text) * 1.25);
+	/* margin size variables based on margin */
+	--size-margin-xs: calc(var(--size-margin-s) * 0.25);
+	--size-margin-m: calc(var(--size-margin-s) * 2);
+	--size-margin-l: calc(var(--size-margin-s) * 3);
+	--size-margin-xl: calc(var(--size-margin-s) * 4);
+	/* color variables */
+	--color-background: rgba(255, 220, 255,1);
+	--color-text: rgba(0,0,0,1);
+	--color-accent: rgba(230, 20, 255,1);
+}
+/*
+html {
+	font-family: 'Authentic sans', 'Arial', sans-serif;
+	font-size: var(--size-text);
+	color: var(--color-text);
+}
+
+body {
+	background-color: var(--color-background);
+}
+
+img {
+	width: 100%;
+	display: block;
+}
+*/
+
+
+/* TYPOGRAPHY */
+/*
+a {
+	color: var(--color-accent);
+	text-decoration: underline;
+}
+
+a:hover {
+	color: var(--color-text);
+}
+
+h1:not(.nav-home-link){
+	font-size: var(--size-title);
+	line-height: 1.25em;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6{
+	font-size: var(--size-size);
+	line-height: 1.25em;
+	font-weight: normal;
+}
+
+p {
+	font-size: var(--size-size);
+	line-height: 1.25em;
+	font-weight: normal;
+}
+
+.nav-home-link{
+	font-size: var(--size-text);
+	line-height: 1.25em;
+	margin-bottom:1em;
+}
+
+.home-project-text-metadata, 
+.project-text-metadata {
+	font-style: italic;
+}
+*/
+/* LAYOUT */
+
+
+
+
+
+/* TABLET & MOBILE */
+
+@media (max-width: 780px) {
+
+	:root{
+		--size-text: 16px;
+	}
+	
+	html{
+		font-size: var(--size-text);
+	}
+
+	/* LAYOUT */
+
+
+
+
+
+}
+
+/* SMALLER DESKTOP */
+
+@media (min-width: 781px) and (max-width: 1199px) {
+
+	:root{
+		--size-text: 17px;
+	}
+	
+	html{
+		font-size: var(--size-text);
+	}
+
+}
+
+
+
+
