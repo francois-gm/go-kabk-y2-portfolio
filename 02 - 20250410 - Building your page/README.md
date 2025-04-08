@@ -15,18 +15,18 @@ We will work from a simple HTML template that covers the essentials.
 
 ```
 assets/
-├── fonts/             (contains all web-friendly font files, i.e. woff or woff2)
+├── fonts/
 |   └── authentic-sans-90.woff
-├── js/           (contains all JavaScript scripts)
+├── js/
 |   └── script.js
-└── css/       (contains all CSS stylesheets)
+└── css/
 |   └── style.css
-└── favicon.png        (the icon shown in the browser's tab)
-projects/                  (contains all projects)
-├── project-title-a/   (folder renamed to the project's title in lowercase and with all spaces replaced as dashes)
-|   ├── media/         (the project's media, i.e. images, videos, and audio)
-|   └── index.html     (the project's HTML page)
-index.html             (the homepage's HTML page)
+└── favicon.png
+projects/
+├── project-title-a/
+|   ├── media/
+|   └── index.html
+index.html
 ```
 
 ## Web typography
