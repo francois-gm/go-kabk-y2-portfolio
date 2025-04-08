@@ -35,12 +35,12 @@ We will work from a simple HTML template that covers the essentials.
 assets/
 ├── fonts/             (contains all web-friendly font files, i.e. woff or woff2)
 |   └── authentic-sans-90.woff
-├── scripts/           (contains all JavaScript scripts)
+├── js/           (contains all JavaScript scripts)
 |   └── script.js
-└── stylesheets/       (contains all CSS stylesheets)
+└── css/       (contains all CSS stylesheets)
 |   └── style.css
 └── favicon.png        (the icon shown in the browser's tab)
-work/                  (contains all projects)
+projects/                  (contains all projects)
 ├── project-title-a/   (folder renamed to the project's title in lowercase and with all spaces replaced as dashes)
 |   ├── media/         (the project's media, i.e. images, videos, and audio)
 |   └── index.html     (the project's HTML page)
