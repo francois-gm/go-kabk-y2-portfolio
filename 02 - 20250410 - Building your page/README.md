@@ -4,13 +4,12 @@ We will work from a simple HTML template that covers the essentials.
 
 > Small note: A `script.js` has been addded at the end of the HTML document to illustrate how to potentially add JavaScript, if you have no need for JavaScript, you can remove the `script.js` as well as remove the `<script>` tags in the HTML documents.
 
-### Table of contents
+### Core focus
 
-- [Core focus](#core-focus)
-- [Map structure](#map-structure)
-- [Web typography](#web-typography)
-- [How to take it further](#how-to-take-it-further)
-- [Website tutorials](#website-tutorials)
+- **Semantic markup** (`nav`, `section`, `figure`, etc.), improving structural readability
+- **CSS variables**, making it easy to configure things once and reuse across stylesheet
+- **CSS Grid**, flexible multi-column layouts
+- **Media queries**, responsive design for any device
 
 ### Map structure
 
