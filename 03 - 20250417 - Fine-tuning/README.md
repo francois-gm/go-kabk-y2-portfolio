@@ -8,7 +8,7 @@ Some questions from the class:
 - How to make image carrousels?
 - How to implement a custom cursor?
 
-### Multi-column index page
+### How to create a pretty looking image-based multi-column index page?
 
 With CSS flexbox:
 
@@ -17,7 +17,7 @@ With CSS flexbox:
 
 (see class tutorial files for more details on implementation)
 
-### Image carrousels
+### How to make image carrousels?
 
 Different possible JavaScript plugins (with straighforward implementation, but also various options):
 
@@ -28,7 +28,7 @@ Different possible JavaScript plugins (with straighforward implementation, but a
 
 Or also, [a CSS only solution](https://css-tricks.com/css-only-carousel/) with the `snap-scroll` property.
 
-### Custom cursors
+### How to implement a custom cursor?
 
 With the CSS `cursor` property. You can use `.png` or `.svg` image files (with transparency).
 
