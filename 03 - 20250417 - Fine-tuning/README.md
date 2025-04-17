@@ -1,6 +1,6 @@
 # Fine-tuning
 
-## 1. Questions / issues
+## Questions / issues
 
 Some questions from the class:
 
@@ -38,7 +38,7 @@ cursor:url('../cursor/mycursor.png'), auto;
 
 Where your cursor image is located under a folder named `cursor`, itself located in your `assets` folder.
 
-## 2. Getting your website online
+## Getting your website online
 
 ### Domain
 
