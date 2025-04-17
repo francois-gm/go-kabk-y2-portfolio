@@ -32,9 +32,8 @@ Before people can see your website that you put on your server you need a domain
 
 Make sure to compare prices between hosting & domain providers, it differs quite a bit! These companies offer both hosting and registering domains.
 
+- [Vimexx](https://www.vimexx.nl/)
 - [Namecheap](https://www.namecheap.com)
 - [Webreus](https://www.webreus.nl)
-- [one.com](https://www.one.com)
-- [Hostgator](https://www.hostgator.com)
 - [Antagonist](https://www.antagonist.nl)
 - [OVH](https://www.ovhcloud.com/nl/web-hosting/personal-offer/)
