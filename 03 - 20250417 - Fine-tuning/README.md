@@ -1,8 +1,44 @@
 # Fine-tuning
 
-## Quest
+## 1. Questions / issues
 
-## Getting your website online
+Some questions from the class:
+
+- How to create a pretty looking image-based multi-column index page?
+- How to make image carrousels?
+- How to implement a custom cursor?
+
+### Multi-column index page
+
+With CSS flexbox:
+
+- See the CSS tricks [full guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Or some more CSS tricks [Flexbox layout tips](https://css-tricks.com/dont-overthink-flexbox-grids/)
+
+(see class tutorial files for more details on implementation)
+
+### Image carrousels
+
+Different possible JavaScript plugins (with straighforward implementation, but also various options):
+
+- [Swiper](https://swiperjs.com/get-started#add-swiper-html-layout)
+- [Slick](https://kenwheeler.github.io/slick/)
+- [Flickity](https://flickity.metafizzy.co)
+- Or also [PhotoSwipe](https://photoswipe.com) (does also "zoom" on images)
+
+Or also, [a CSS only solution](https://css-tricks.com/css-only-carousel/) with the `snap-scroll` property.
+
+### Custom cursors
+
+With the CSS `cursor` property. You can use `.png` or `.svg` image files (with transparency).
+
+```
+cursor:url('../cursor/mycursor.png'), auto;
+```
+
+Where your cursor image is located under a folder named `cursor`, itself located in your `assets` folder.
+
+## 2. Getting your website online
 
 ### Domain
 
